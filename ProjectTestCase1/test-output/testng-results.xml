@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78923" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:07:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78923" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:07:30 IST">
+      <class name="AppiumProject1.TestInvalidLogin">
+        <test-method status="PASS" signature="Login()[pri:0, instance:AppiumProject1.TestInvalidLogin@1b68ddbd]" name="Login" is-config="true" duration-ms="29785" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="InvalidLogin()[pri:0, instance:AppiumProject1.TestInvalidLogin@1b68ddbd]" name="InvalidLogin" duration-ms="49034" started-at="2020-11-06T11:06:41 IST" finished-at="2020-11-06T11:07:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+      </class> <!-- AppiumProject1.TestInvalidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
