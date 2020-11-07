@@ -54,5 +54,8 @@ public class TestInvalidLogin {
         driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
   }
 
-  
+  @AfterMethod
+  public void Exit() {
+	  	driver.quit();
+  }
 }
