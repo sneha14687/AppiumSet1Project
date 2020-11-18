@@ -2,19 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="78923" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:07:30 IST">
+  <suite name="Default suite" duration-ms="97904" started-at="2020-11-07T19:29:23 IST" finished-at="2020-11-07T19:31:01 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="78923" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:07:30 IST">
+    <test name="Default test" duration-ms="97904" started-at="2020-11-07T19:29:23 IST" finished-at="2020-11-07T19:31:01 IST">
       <class name="AppiumProject1.TestInvalidLogin">
-        <test-method status="PASS" signature="Login()[pri:0, instance:AppiumProject1.TestInvalidLogin@1b68ddbd]" name="Login" is-config="true" duration-ms="29785" started-at="2020-11-06T11:06:11 IST" finished-at="2020-11-06T11:06:41 IST">
+        <test-method status="PASS" signature="Login()[pri:0, instance:AppiumProject1.TestInvalidLogin@646d64ab]" name="Login" is-config="true" duration-ms="31917" started-at="2020-11-07T19:29:23 IST" finished-at="2020-11-07T19:29:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="InvalidLogin()[pri:0, instance:AppiumProject1.TestInvalidLogin@1b68ddbd]" name="InvalidLogin" duration-ms="49034" started-at="2020-11-06T11:06:41 IST" finished-at="2020-11-06T11:07:30 IST">
+        <test-method status="PASS" signature="InvalidLogin()[pri:0, instance:AppiumProject1.TestInvalidLogin@646d64ab]" name="InvalidLogin" duration-ms="62928" started-at="2020-11-07T19:29:55 IST" finished-at="2020-11-07T19:30:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InvalidLogin -->
+        <test-method status="PASS" signature="Exit()[pri:0, instance:AppiumProject1.TestInvalidLogin@646d64ab]" name="Exit" is-config="true" duration-ms="2926" started-at="2020-11-07T19:30:58 IST" finished-at="2020-11-07T19:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
       </class> <!-- AppiumProject1.TestInvalidLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
